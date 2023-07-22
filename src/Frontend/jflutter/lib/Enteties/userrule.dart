@@ -1,0 +1,1 @@
+enum UserRule { Admin, Teacher, Student}
